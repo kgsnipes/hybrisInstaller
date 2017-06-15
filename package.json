@@ -1,0 +1,27 @@
+{
+  "name": "hybris_installer",
+  "version": "1.0.0",
+  "description": "hybris installer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kgsnipes/hybrisInstaller.git"
+  },
+  "keywords": [
+    "hybris",
+    "installer"
+  ],
+  "author": "kaushik ganguly",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kgsnipes/hybrisInstaller/issues"
+  },
+  "homepage": "https://github.com/kgsnipes/hybrisInstaller#readme",
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "cli-spinner": "^0.2.6"
+  }
+}

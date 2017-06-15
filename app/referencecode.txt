@@ -1,0 +1,19 @@
+reference code:
+
+
+child process :
+http://krasimirtsonev.com/blog/article/Nodejs-managing-child-processes-starting-stopping-exec-spawn
+
+
+exec('node -v', function(error, stdout, stderr) {
+	    console.log('stdout: ' + stdout);
+	    console.log('stderr: ' + stderr);
+	    if (error !== null) {
+	        console.log('exec error: ' + error);
+	    }
+	});
+
+
+	https://www.sitepoint.com/javascript-command-line-interface-cli-node-js/
+
+	http://justinklemm.com/node-js-async-tutorial/
